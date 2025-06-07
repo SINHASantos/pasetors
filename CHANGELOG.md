@@ -1,3 +1,16 @@
+### 0.7.6
+
+__Date:__ June 7, 2025.
+
+- Fixup for "Build serde and serde_derive in parallel" ([#192](https://github.com/brycx/pasetors/pull/192), credits: [@Enselic](https://github.com/Enselic)).
+
+### 0.7.5
+
+__Date:__ June 7, 2025.
+
+- Build serde and serde_derive in parallel (22% faster builds) ([#189](https://github.com/brycx/pasetors/pull/189), credits: [@Enselic](https://github.com/Enselic)).
+- Bump MSRV to 1.85.0 (due to `base64-ct`) ([#191](https://github.com/brycx/pasetors/pull/191)).
+
 ### 0.7.4
 
 __Date:__ April 12, 2025.
