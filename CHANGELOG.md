@@ -1,6 +1,6 @@
 ### 0.7.8
 
-__Date:__ TBD.
+__Date:__ February 23, 2026.
 
 - Bump MSRV to `1.88`.
 - Bump `getrandom` to `0.4`.
